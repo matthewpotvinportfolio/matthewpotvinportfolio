@@ -20,8 +20,8 @@
 
 <h2>📄 Certifications:</h2>
 
-- CCNA 1 (Cistco Networking Course)
-- CCNA 2 (Cistco Networking Course)
+- CCNA 1 (Cisco Networking Course)
+- CCNA 2 (Cisco Networking Course)
 
 <h2> 🤳 Connect with me:</h2>
 
